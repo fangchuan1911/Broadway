@@ -1,3 +1,21 @@
-html {
+body {
   font-family: Helvetica;
+  text-align: center;
+}
+
+.image {
+  background-image: url('../images/the-flatiron-building.png');
+  color: White;
+}
+
+a {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: White;
+}
+
+.footer {
+  background-color: Dimgray;
+  font-size: 11px;
+  color: White;
 }

@@ -8,6 +8,21 @@ body {
   color: White;
 }
 
+.image h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
 a {
   font-family: Helvetica;
   font-size: 18px;
@@ -16,6 +31,18 @@ a {
 
 .footer {
   background-color: Dimgray;
-  font-size: 11px;
+  text-align: left;
   color: White;
+}
+
+p {
+  font-size: 14px;
+}
+
+.footer p {
+  font-size: 11px;
+}
+
+.image a {
+  padding-bottom: 18px;
 }
